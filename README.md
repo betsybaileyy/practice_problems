@@ -1,5 +1,5 @@
 ## SPD 2.4 
-# Tech Interview Problems
+# Technical Interview Problems
 
 ### Problems:
 
